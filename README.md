@@ -9,3 +9,8 @@ pertemuan 3
 ###CD
 mengubah tempat direktori --- **CD = change** directory
 
+main fun() {
+ val abc = "percobaan ga jelas"
+ printIn (abc)
+}
+
