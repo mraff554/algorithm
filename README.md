@@ -1,3 +1,0 @@
-manythings
-
-print ("manythings")
